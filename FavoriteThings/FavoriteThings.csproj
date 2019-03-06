@@ -5,4 +5,10 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Movies\" />
+    <Folder Include="Meats\" />
+    <Folder Include="Coffee\" />
+  </ItemGroup>
+
 </Project>
